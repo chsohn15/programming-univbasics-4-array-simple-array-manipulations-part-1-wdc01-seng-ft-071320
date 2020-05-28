@@ -11,5 +11,5 @@ def using_pop(array)
 end
 
 def pop_with_args(Array, item=2)
-  for (var i = 0; i < item; )
+  for (var i = 0; i < item; i++)
   
